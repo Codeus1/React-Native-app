@@ -1,0 +1,7 @@
+{
+  "name": "DevBoost AI - Portfolio Accelerator",
+  "description": "A high-end developer career tool powered by Gemini AI that generates optimized GitHub READMEs, analyzes skill distributions with interactive charts, and provides AI-driven interview coaching to help engineers land top-tier roles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
